@@ -2,9 +2,9 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./components/ui/tabs"
-import ImageGenerator from './components/imageGenerator'
-import VideoGenerator from './components/videoGenerator'
-import InstructionFollower from './components/instructionFollower'
+import ImageGenerator from './components/ImageGenerator'
+import VideoGenerator from './components/VideoGenerator'
+import InstructionFollower from './components/InstructionFollower'
 
 function App() {
 
